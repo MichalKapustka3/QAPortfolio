@@ -16,7 +16,6 @@ will continue to grow.
 
 
 ## Tools
-- Postman
 - Dbeaver
 - PostgreSQL
 - OWASP ZAP

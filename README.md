@@ -64,7 +64,7 @@ will continue to grow.
 ### Test Cases
 - 
 ### Test Report
-- 
+- [Test Report 1](https://github.com/MichalKapustka3/QAPortfolio/blob/1650fe32f2bba6f2cef2ea38fe4242e80a513d6d/Exemples/Testplan1.pdf)
 
 ### Test Plans
 - 

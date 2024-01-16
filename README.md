@@ -63,10 +63,10 @@ will continue to grow.
 ### Test Cases
 - 
 ### Test Report
-- [Test Report 1](https://github.com/MichalKapustka3/QAPortfolio/blob/1650fe32f2bba6f2cef2ea38fe4242e80a513d6d/Exemples/Testplan1.pdf)
+- Test Report 1
 
 ### Test Plans
-- 
+- [Test Plan 1] (https://github.com/MichalKapustka3/QAPortfolio/blob/e396c7001b01bc2ddac1539acd8e8af3b470de21/Exemples/Testplan1.pdf)
 
 ## My Projects
 ### Project 1: [Project Name]

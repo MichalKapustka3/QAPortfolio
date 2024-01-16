@@ -66,9 +66,8 @@ will continue to grow.
 ### Test Report
 - 
 
-### Test Scenarios
-- [Test Scenario 1]
-- [Test Scenario 2]
+### Test Plans
+- 
 
 ## My Projects
 ### Project 1: [Project Name]

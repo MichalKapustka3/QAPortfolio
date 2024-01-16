@@ -47,7 +47,7 @@ https://www.linkedin.com/in/michał-kapustka-qa3/
 - Communicative skills
 
 ## Certificates
-- [Testeroprogramowaniaudemy.pdf](https://github.com/MichalKapustka3/QAPortfolio/files/13954679/Testeroprogramowaniaudemy.pdf)
+- Certificates/Testeroprogramowaniaudemy.pdf
 
 
 ## Courses

@@ -1,4 +1,4 @@
-# QAPortfolio
+# QA Portfolio
 ## ABOUT ME
 
 I am a Junior QA Tester, focused on finding and solving problems. 

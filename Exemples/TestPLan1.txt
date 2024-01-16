@@ -1,0 +1,57 @@
+1. Wstęp 
+Głównym celem działań testowych jest dostarczenie klientowi informacji o jakości testowanego produktu. W przygotowanym dokumencie zostały zebrane kluczowe informacje na temat działan testowych. Wyszczególnione zostały wszystkie komponenty oprogramowania , które zostaną poddane weryfikacji także typy testów jakie zostaną przeprowadzone.
+
+2. Zakres testów
+typy testów realizowanych : 
+jednostkowe
+funkcjonalne 
+wydajnościowe 
+testy użyteczności
+typy testów nierealizowanych
+testy automatyczne - brak wystarczającego budżetu na etap związany z testowaniem automatycznym
+3. Przedmiot testów
+Komponentem testó jest Wyszukiwarka ze strony głównej Booking.com z uwzględnieniem całej logiki filtrowania po odpowiednich polach.
+4. Kryteria zaliczenia/niezaliczenia testów
+Wykonanie zaprojektowanych przypadków testowych 
+Czas odpowiedzi serwera nie przekracza 700 ms
+Wyszukiwarka jest czytelna i dobrze widoczna
+5. Kryteria wejscia i wyjścia
+Kryteria wejścia : 
+zakończona faza implementacji Wyszukiwarki
+działające i skonfigurowane środowisko testowe
+dostęp do działającej i skonfigurowanej wirtualnej maszyny
+Kryteria wyjścia 
+wszystkie przypadki testowe zostały zakończone pomyślnie 
+Komponent spełnia wszystkie wymagania z załączonej dokumentacji
+6. Lista wymagań funkcjonalności do przetestowania
+załacznei wsyztskich dokumentacji, user story, scenariuszy itp
+7. Środowisko testowe
+system operacyjny Windows 10 64 bit
+przeglądarki Chrome, Firefox, Opera, Microsoft Edge
+środowisko development, serwer testowy
+8. Harmonogram testów
+Przeprowadzenie testów funkcjonalnych
+weryfikacja funkcjonalności w oparciu o user story - 4 h
+wykonanie zaprojektowanych wcześniej TC - 2h
+weryfikacja warstwy Backend - 1 h
+Przeprowadzeni testów wydajnościowych
+weryfikacja ile wynosi średni czas odpowiedzi - 1h
+weryfikacja jak jest maks liczba requestów przy jakich wyszukiwarka działa stabilnie - 1h
+9. Raport z testów
+przekazanie listy przeprowadzonych TC wraz z statusami
+raport, pomiary z testów wydajnościowych 
+inne raporty z testów
+10. Lista narzędzi używanych w testach
+Jmeter
+TestLink
+Jira
+Browserstack
+11. Zarządzanie błędami, incydentami
+W procesie testowym każdy wykryty błąd powinien być odpowiednio zaraportowany do systemu Jira. Każdy błąd musimy mieć ustalony priorytet błędu i przypisaną osobę odpowiedzialną za test oraz developera. 
+
+Zgodnie z przyjęty flow przez naszą organizacją , problem powinien zostać naprawiony przez developera i po tym trafić do restestów.
+
+12. Role i odpowiedzialność
+Michał Kowalski - kooordynator, project manager
+Jan Nowak - tworzenie TC
+Szymon K - Developer

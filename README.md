@@ -47,7 +47,7 @@ https://www.linkedin.com/in/michał-kapustka-qa3/
 - Communicative skills
 
 ## Certificates
-- Tester Oprogramowania Udemy (https://github.com/MichalKapustka3/QAPortfolio/blob/f67ff90015e39fb621fe343f793536a7044bf8e6/Certificates/Testeroprogramowaniaudemy.pdf)
+- [Software Tester Udemy](https://github.com/MichalKapustka3/QAPortfolio/blob/f67ff90015e39fb621fe343f793536a7044bf8e6/Certificates/Testeroprogramowaniaudemy.pdf)
 
 
 ## Courses

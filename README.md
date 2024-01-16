@@ -1,4 +1,4 @@
-# QAPortfolio
+# QA Portfolio
 ## ABOUT ME
 
 I am a Junior QA Tester, focused on finding and solving problems. 
@@ -12,8 +12,7 @@ TestRail, Jira, Postman, Trello, TestLink etc in my work.
 I am constantly improving and learning, and am looking for a company where I
 will continue to grow.
 
-## LinkedIN
-https://www.linkedin.com/in/michał-kapustka-qa3/
+### [LinkedIN Profile](https://www.linkedin.com/in/michał-kapustka-qa3/)
 
 
 ## Tools
@@ -47,7 +46,7 @@ https://www.linkedin.com/in/michał-kapustka-qa3/
 - Communicative skills
 
 ## Certificates
-- [Testeroprogramowaniaudemy.pdf](https://github.com/MichalKapustka3/QAPortfolio/files/13954679/Testeroprogramowaniaudemy.pdf)
+- [Software Tester Udemy](https://github.com/MichalKapustka3/QAPortfolio/blob/f67ff90015e39fb621fe343f793536a7044bf8e6/Certificates/Testeroprogramowaniaudemy.pdf)
 
 
 ## Courses

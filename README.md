@@ -11,3 +11,71 @@ TestRail, Jira, Postman, Trello, TestLink etc in my work.
 
 I am constantly improving and learning, and am looking for a company where I
 will continue to grow.
+
+## LinkedIN
+https://www.linkedin.com/in/michał-kapustka-qa3/
+
+
+## Tools
+- Postman
+- Dbeaver
+- PostgreSQL
+- OWASP ZAP
+- Jira, Trello
+- [Postman](https://www.postman.com/)
+- Github
+- Testrail , Qase, TestLink
+- Bug Magnet - Exploratory testing assistant for Chrome and Firefox
+- PicPick
+- ShareX
+- Oracle
+
+## Tech Skills
+- Preparing test scenarios
+- Bug reports
+- Jira/Confluence
+- SQL
+- GIT/SVN
+- API Testing
+- SDLC
+
+## Soft Skills
+- Strategic planning
+- Sales Ability
+- Teamwork skills
+- High stress tolerance
+- Communicative skills
+
+## Certificates
+- [Testeroprogramowaniaudemy.pdf](https://github.com/MichalKapustka3/QAPortfolio/files/13954679/Testeroprogramowaniaudemy.pdf)
+
+
+## Courses
+- QA Enginner Manual Tester GoIT (https://goit.global/pl/courses/qa/)
+- Postman REST API testing Udemy
+- SQL for beginner - PostgreSQL Udemy
+- Practical Software Manual Testing course Udemy
+- GIT from basic Udemy
+
+
+## My Test Documentation
+### Bug Reports
+- 
+
+### Test Cases
+- 
+### Test Report
+- 
+
+### Test Scenarios
+- [Test Scenario 1]
+- [Test Scenario 2]
+
+## My Projects
+### Project 1: [Project Name]
+- [Brief Description]
+- [Link to Project Repository]
+
+### Project 2: [Project Name]
+- [Brief Description]
+- [Link to Project Repository]

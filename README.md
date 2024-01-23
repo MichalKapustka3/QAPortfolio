@@ -64,7 +64,7 @@ will continue to grow.
 - [Bug Report 3](https://github.com/MichalKapustka3/QAPortfolio/blob/95503424ca2be05bc2943da2476ed16f6088788e/Exemples/BugReport/br3.pdf)
 
 ### Test Cases
-- 
+- [Test Cases google.docs](https://docs.google.com/spreadsheets/d/1R8rDg00uMZXcMmIyST5wsUjIBDw7_P9S/edit?usp=sharing&ouid=113016739836840316972&rtpof=true&sd=true)
 ### Test Report
 - Test Report 1
 

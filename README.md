@@ -67,7 +67,7 @@ will continue to grow.
 - Test Report 1
 
 ### Test Plans
-- [Test Plan 1](https://github.com/MichalKapustka3/QAPortfolio/blob/e396c7001b01bc2ddac1539acd8e8af3b470de21/Exemples/Testplan1.pdf)
+- [Test Plan 1](https://github.com/MichalKapustka3/QAPortfolio/tree/ca8b397c2fc7bd84eb963d70137d6b40e243d05f/Exemples/Test%20plan)
 
 ## My Projects
 ### Project 1: [Project Name]

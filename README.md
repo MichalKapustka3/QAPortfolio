@@ -59,7 +59,7 @@ will continue to grow.
 
 ## My Test Documentation
 ### Bug Reports
-- 
+- [Bug Report 1](https://github.com/MichalKapustka3/QAPortfolio/blob/36f49864e6d44e64b6a279462a331712d12f3612/Exemples/BugReport/br1.pdf)
 
 ### Test Cases
 - 
@@ -67,7 +67,7 @@ will continue to grow.
 - Test Report 1
 
 ### Test Plans
-- [Test Plan 1](https://github.com/MichalKapustka3/QAPortfolio/blob/e396c7001b01bc2ddac1539acd8e8af3b470de21/Exemples/Testplan1.pdf)
+- [Test Plan 1](https://github.com/MichalKapustka3/QAPortfolio/blob/8ca53fa66d0ede71d91a3d13416faac5bfdc6468/Exemples/Test%20plan/Testplan1.pdf)
 
 ## My Projects
 ### Project 1: [Project Name]

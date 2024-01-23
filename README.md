@@ -59,7 +59,7 @@ will continue to grow.
 
 ## My Test Documentation
 ### Bug Reports
-- 
+- [Bug Report 1](https://github.com/MichalKapustka3/QAPortfolio/blob/36f49864e6d44e64b6a279462a331712d12f3612/Exemples/BugReport/br1.pdf)
 
 ### Test Cases
 - 

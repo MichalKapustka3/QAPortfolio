@@ -62,6 +62,7 @@ will continue to grow.
 - [Bug Report 1](https://github.com/MichalKapustka3/QAPortfolio/blob/36f49864e6d44e64b6a279462a331712d12f3612/Exemples/BugReport/br1.pdf)
 - [Bug Report 2](https://github.com/MichalKapustka3/QAPortfolio/blob/95503424ca2be05bc2943da2476ed16f6088788e/Exemples/BugReport/br2.pdf)
 - [Bug Report 3](https://github.com/MichalKapustka3/QAPortfolio/blob/95503424ca2be05bc2943da2476ed16f6088788e/Exemples/BugReport/br3.pdf)
+- [Bug Reports google.dosc](https://docs.google.com/spreadsheets/d/1UXxL41IyziiaECYpVYlm7Fm9Wto29KC6_172_8YZ2Nk/edit?usp=sharing)
 
 ### Test Cases
 - [Test Cases google.docs](https://docs.google.com/spreadsheets/d/1R8rDg00uMZXcMmIyST5wsUjIBDw7_P9S/edit?usp=sharing&ouid=113016739836840316972&rtpof=true&sd=true)
@@ -70,6 +71,9 @@ will continue to grow.
 
 ### Test Plans
 - [Test Plan 1](https://github.com/MichalKapustka3/QAPortfolio/blob/8ca53fa66d0ede71d91a3d13416faac5bfdc6468/Exemples/Test%20plan/Testplan1.pdf)
+
+### Others 
+- [Checklist](https://docs.google.com/document/d/1AINqGEyX_ze0ELH3zGNdjN37NVCM6gEfdSp70uPy58s/edit?usp=sharing)
 
 ## My Projects
 ### Project 1: [Project Name]

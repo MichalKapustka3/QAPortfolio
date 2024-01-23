@@ -60,6 +60,8 @@ will continue to grow.
 ## My Test Documentation
 ### Bug Reports
 - [Bug Report 1](https://github.com/MichalKapustka3/QAPortfolio/blob/36f49864e6d44e64b6a279462a331712d12f3612/Exemples/BugReport/br1.pdf)
+- [Bug Report 2](https://github.com/MichalKapustka3/QAPortfolio/blob/95503424ca2be05bc2943da2476ed16f6088788e/Exemples/BugReport/br2.pdf)
+- [Bug Report 3](https://github.com/MichalKapustka3/QAPortfolio/blob/95503424ca2be05bc2943da2476ed16f6088788e/Exemples/BugReport/br3.pdf)
 
 ### Test Cases
 - 

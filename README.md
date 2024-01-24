@@ -63,6 +63,7 @@ will continue to grow.
 - [Bug Report 2](https://github.com/MichalKapustka3/QAPortfolio/blob/95503424ca2be05bc2943da2476ed16f6088788e/Exemples/BugReport/br2.pdf)
 - [Bug Report 3](https://github.com/MichalKapustka3/QAPortfolio/blob/95503424ca2be05bc2943da2476ed16f6088788e/Exemples/BugReport/br3.pdf)
 - [Bug Reports google.dosc](https://docs.google.com/spreadsheets/d/1UXxL41IyziiaECYpVYlm7Fm9Wto29KC6_172_8YZ2Nk/edit?usp=sharing)
+- [Bug Reports TODO app](https://docs.google.com/document/d/1pkActbXGyJPVpF90jrKYDMJCyKLNuZZ4DsbjYOqRGXc/edit?usp=sharing)
 
 ### Test Cases
 - [Test Cases google.docs](https://docs.google.com/spreadsheets/d/1R8rDg00uMZXcMmIyST5wsUjIBDw7_P9S/edit?usp=sharing&ouid=113016739836840316972&rtpof=true&sd=true)

@@ -78,9 +78,11 @@ will continue to grow.
 - [Checklist](https://docs.google.com/document/d/1AINqGEyX_ze0ELH3zGNdjN37NVCM6gEfdSp70uPy58s/edit?usp=sharing)
 
 ## My Projects
-### Project 1: [Project Name]
-- [Brief Description]
-- [Link to Project Repository]
+### Project 1: [SO YUMMY TESTING](https://docs.google.com/spreadsheets/d/1TcfCK-3TtD8ObtthIOlnjHTYRIfGgu0FYA5-iAi0KME/edit#gid=0)
+- As the information on the homepage tells us, this is not just an app in which you add your recipes, it is actually your personal cookbook. 
+The app is used to save your recipes, create shopping lists for our recipes.
+It is a "cookbook" in which it is much easier to find recipes and much more efficient than traditional cookbooks or recipes written down in notebooks or on pieces of paper.
+- [Link to Project Repository](https://docs.google.com/spreadsheets/d/1TcfCK-3TtD8ObtthIOlnjHTYRIfGgu0FYA5-iAi0KME/edit#gid=0)
 
 ### Project 2: [Project Name]
 - [Brief Description]

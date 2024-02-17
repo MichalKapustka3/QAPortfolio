@@ -48,6 +48,7 @@ will continue to grow.
 ## Certificates
 - [Software Tester Udemy](https://github.com/MichalKapustka3/QAPortfolio/blob/f67ff90015e39fb621fe343f793536a7044bf8e6/Certificates/Testeroprogramowaniaudemy.pdf)
 
+- [QA Engineer GoIT](https://github.com/MichalKapustka3/QAPortfolio/blob/main/Certificates/Micha%C5%82%20Kapustka.pdf)
 
 ## Courses
 - QA Enginner Manual Tester GoIT (https://goit.global/pl/courses/qa/)

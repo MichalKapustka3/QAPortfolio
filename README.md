@@ -69,7 +69,7 @@ will continue to grow.
 ### Test Cases
 - [Test Cases google.docs](https://docs.google.com/spreadsheets/d/1R8rDg00uMZXcMmIyST5wsUjIBDw7_P9S/edit?usp=sharing&ouid=113016739836840316972&rtpof=true&sd=true)
 ### Test Report
-- Test Report 1
+- [Test Report 1](https://docs.google.com/spreadsheets/d/1TcfCK-3TtD8ObtthIOlnjHTYRIfGgu0FYA5-iAi0KME/edit#gid=0)
 
 ### Test Plans
 - [Test Plan 1](https://github.com/MichalKapustka3/QAPortfolio/blob/8ca53fa66d0ede71d91a3d13416faac5bfdc6468/Exemples/Test%20plan/Testplan1.pdf)

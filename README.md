@@ -48,6 +48,7 @@ will continue to grow.
 ## Certificates
 - [Software Tester Udemy](https://github.com/MichalKapustka3/QAPortfolio/blob/f67ff90015e39fb621fe343f793536a7044bf8e6/Certificates/Testeroprogramowaniaudemy.pdf)
 
+- [QA Engineer GoIT](https://github.com/MichalKapustka3/QAPortfolio/blob/main/Certificates/Micha%C5%82%20Kapustka.pdf)
 
 ## Courses
 - QA Enginner Manual Tester GoIT (https://goit.global/pl/courses/qa/)
@@ -68,7 +69,7 @@ will continue to grow.
 ### Test Cases
 - [Test Cases google.docs](https://docs.google.com/spreadsheets/d/1R8rDg00uMZXcMmIyST5wsUjIBDw7_P9S/edit?usp=sharing&ouid=113016739836840316972&rtpof=true&sd=true)
 ### Test Report
-- Test Report 1
+- [Test Report 1](https://docs.google.com/spreadsheets/d/1TcfCK-3TtD8ObtthIOlnjHTYRIfGgu0FYA5-iAi0KME/edit#gid=0)
 
 ### Test Plans
 - [Test Plan 1](https://github.com/MichalKapustka3/QAPortfolio/blob/8ca53fa66d0ede71d91a3d13416faac5bfdc6468/Exemples/Test%20plan/Testplan1.pdf)
@@ -77,9 +78,11 @@ will continue to grow.
 - [Checklist](https://docs.google.com/document/d/1AINqGEyX_ze0ELH3zGNdjN37NVCM6gEfdSp70uPy58s/edit?usp=sharing)
 
 ## My Projects
-### Project 1: [Project Name]
-- [Brief Description]
-- [Link to Project Repository]
+### Project 1: [SO YUMMY TESTING](https://docs.google.com/spreadsheets/d/1TcfCK-3TtD8ObtthIOlnjHTYRIfGgu0FYA5-iAi0KME/edit#gid=0)
+- As the information on the homepage tells us, this is not just an app in which you add your recipes, it is actually your personal cookbook. 
+The app is used to save your recipes, create shopping lists for our recipes.
+It is a "cookbook" in which it is much easier to find recipes and much more efficient than traditional cookbooks or recipes written down in notebooks or on pieces of paper.
+- [Link to Project Repository](https://docs.google.com/spreadsheets/d/1TcfCK-3TtD8ObtthIOlnjHTYRIfGgu0FYA5-iAi0KME/edit#gid=0)
 
 ### Project 2: [Project Name]
 - [Brief Description]

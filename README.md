@@ -12,7 +12,7 @@ TestRail, Jira, Postman, Trello, TestLink etc in my work.
 I am constantly improving and learning, and am looking for a company where I
 will continue to grow.
 
-### Curriculum Vitae [.pdf eng ver](https://github.com/MichalKapustka3/QAPortfolio/blob/main/CVmkeng.pdf) [.pdf pl ver](https://github.com/MichalKapustka3/QAPortfolio/blob/main/CVmkpl.pdf) [link](https://cvmichalkap.netlify.app/)
+### Curriculum Vitae [.pdf Eng.ver](https://github.com/MichalKapustka3/QAPortfolio/blob/main/CVmkeng.pdf)  [.pdf Pl.ver](https://github.com/MichalKapustka3/QAPortfolio/blob/main/CVmkpl.pdf)  [link](https://cvmichalkap.netlify.app/)
 ### [LinkedIN Profile](https://www.linkedin.com/in/michał-kapustka-qa3/)
 
 
